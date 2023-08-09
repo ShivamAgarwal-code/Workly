@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/atulmy/atulmy.github.io/master/images/hire-smart/hero-shadow.png" alt="Hire Smart" />
 </p>
 
-<h1 align="center">HIRE SMART</h1>
+<h1 align="center">Workly</h1>
 <p align="center">An application for human resource team / recruitment consultancies to streamline hiring process, scheduling interviews and tracking candidates.</p>
 
 ## Technology Stack
@@ -10,7 +10,9 @@
     - Node
     - Express
     - MongoDB
-    - Remote Procedure Call [(RPC)](https://github.com/atulmy/wispy)
+    - Remote Procedure Call
+    - Outlook
+    - Pandas/Open libraries
   - Web
     - React
     - Redux
@@ -21,7 +23,7 @@
 - Prerequisites
   - Node
   - MongoDB
-- Clone repo `git clone git@github.com:atulmy/hire-smart.git hire-smart`
+- Clone repo `git clone https://github.com/ShivamAgarwal-code/Workly.git`
 - Switch to `code` directory `cd code`
 - Configurations
   - API
@@ -46,19 +48,5 @@
       - `cd code/deploy`
       - Update your domain, SSL certificate path and other configurations in `docker-compose.yml`
       - Start Docker containers: `docker-compose up -d`
-  
-
-## Authors
-- Atul Yadav - [GitHub](https://github.com/atulmy) · [Twitter](https://twitter.com/atulmy)
-- [YOUR NAME HERE] - Feel free to contribute to the codebase by resolving any open issues, refactoring, adding new features, writing test cases or any other way to make the project better and helpful to the community. Feel free to fork and send pull requests.
-
-## Support
-[![Become a Patreon](https://raw.githubusercontent.com/atulmy/atulmy.github.io/master/images/mix/patreon.png?v=1)](https://www.patreon.com/atulmy)
-
-## Hire me
-Looking for a developer to build your next idea or need a developer to work remotely? Get in touch: [atul.12788@gmail.com](mailto:atul.12788@gmail.com)
-
-## License
-Copyright (c) 2018 Atul Yadav http://github.com/atulmy
-
-The MIT License (http://www.opensource.org/licenses/mit-license.php)
+        
+  The MIT License (http://www.opensource.org/licenses/mit-license.php)
